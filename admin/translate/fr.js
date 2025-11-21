@@ -1,0 +1,46 @@
+const translationsFr = {
+    entries: "Entrées de véhicule d'aujourd'hui",
+    entriesyest: "Entrées de véhicule d'hier",
+    entriesweek: "Entrées de véhicules des 7 derniers jours",
+    totalveh: "Nombre total de véhicules inscrits",
+    totaluser: "Nombre total d'utilisateurs enregistrés",
+    lcategorie: "Catégories répertoriées",
+    users: "Utilisateurs",
+
+    search: "Rechercher un véhicule",
+    report: "Rapports entre les dates",
+    rep: "Rapports",
+    out: "Gérer les véhicules sortants",
+    in: "Gérer les véhicules entrants",
+    manage: "Gérer les véhicules",
+    delete: "Supprimer",
+    add: "Ajouter vehicule",
+    managecat: "Gestion des categories",
+    cat: "Ajouter categorie",
+    addcat: "Ajouter les categories",
+    dashboard: "Tableau de bord",
+    catname: "Nom de la categorie",
+    add: "Ajouter",
+
+    
+    title: "VPMS - Voir les détails du véhicule",
+    dashboard: "Tableau de bord",
+    view_vehicle: "Voir le véhicule",
+    incoming_vehicle: "Véhicule entrant",
+    view_incoming_vehicle: "Voir le véhicule entrant",
+    parking: "Numéro de parking",
+    vehicle_category: "Catégorie de véhicule",
+    vehicle_company: "Nom de la société de véhicule",
+    registration_number: "Numéro d'immatriculation",
+    owner_name: "Nom du propriétaire",
+    owner_contact: "Numéro de contact du propriétaire",
+    in_time: "Heure d'entrée",
+    status: "Statut",
+    remark: "Remarque",
+    parking_charge: "Frais de parking",
+    outgoing_vehicle: "Véhicule sortant",
+    update: "Mettre à jour",
+    parking_fee: "Frais de parking"
+
+
+};
